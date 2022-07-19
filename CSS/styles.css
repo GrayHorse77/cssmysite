@@ -1,0 +1,146 @@
+body {
+  border: none;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  line-height: 1;
+  font-weight: normal;
+  margin: 0px;
+  font-size: 5.625rem;
+  /* 2em=16px=100%*/
+  color: gold;
+  font-family: 'Sacramento', cursive;
+  margin-top: 20px;
+  border: 0px;
+}
+
+h3 {
+  color: #2E0249;
+  font-weight: normal;
+  font-family: 'Montserrat' sans-serif;
+}
+
+h2 {
+  color: #001d6e;
+  font-weight: normal;
+  font-family: 'Montserrat' sans-serif;
+}
+
+a {
+  color: purple;
+}
+
+p {
+  font-weight: normal;
+}
+
+.top-container {
+  background: linear-gradient(10deg, #2E0249 50%, #001D6E 200%, #2e0249, #001d6e 40%);
+  height: 844px;
+  width: 100%;
+}
+.profile {
+  height: 18%;
+  width: 18%;
+  border-radius: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.neptune {
+  height: 200px;
+  width: 200px;
+  margin-right: 1000px;
+  margin-bottom: 9000px;
+  margin-top: 20px;
+  margin-left: -300px;
+  border: 0px;
+}
+
+.saturn {
+  height: 200px;
+  width: 200px;
+  margin-left: 1500px;
+  margin-top: 50px;
+}
+
+.stars1 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin-left: -1700px;
+  margin-top: 200px;
+  border: 0px;
+}
+.stars2 {
+  height: 100px;
+  width: 100px;
+position: absolute;
+margin-left: -200px;
+}
+.stars3 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+margin-top: -100px;
+margin-left: -300px;
+}
+.stars4 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin-left: -1300px;
+  margin-top: 100px;
+}
+.stars5 {
+  height:100px;
+  width:100px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: -200px;
+}
+.middle-container {
+}
+
+.Hobbie-row {
+  width: 30%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+padding: 30px;
+}
+.vgame {
+  width: 55%;
+  float: left;
+  margin-right: 30px;
+}
+.globe {
+  width: 55%;
+  float: right;
+  margin-left: 30px;
+}
+.code-skill {
+  clear: left;
+}
+.travelp {
+  clear: right;
+}
+
+.prog {
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: gold;
+}
+
+.pro {
+  font-weight: normal;
+  text-decoration: underline;
+}
+.bottom-conatiner {
+  text-align: center;
+}
+.contact-me {
+  text-align: center;
+}
