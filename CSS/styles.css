@@ -121,6 +121,11 @@ padding: 30px;
   float: right;
   margin-left: 30px;
 }
+.statue {
+  width: 65%;
+  float: left;
+  margin-right: 30px;
+}
 .code-skill {
   clear: left;
 }
