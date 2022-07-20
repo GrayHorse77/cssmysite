@@ -127,7 +127,9 @@ padding: 30px;
 .travelp {
   clear: right;
 }
-
+.learnp {
+  clear: left;
+}
 .prog {
   font-weight: normal;
   font-size: 2.5rem;
