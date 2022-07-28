@@ -35,6 +35,7 @@ a {
 
 p {
   font-weight: normal;
+  font-family: 'Merriweather' serif;
 }
 hr {
 border: dotted #2E0249 7px;
@@ -60,6 +61,7 @@ padding: 10px;
   padding-bottom: 20px;
   width: 30%;
   margin: auto;
+  font-weight: normal;
 }
 
 .neptune {
