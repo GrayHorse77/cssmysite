@@ -172,3 +172,30 @@ padding: 30px;
 .cont {
   margin-bottom: 100px;
 }
+.btn {
+  background: #f8ff3b;
+  background-image: -webkit-linear-gradient(top, #f8ff3b, #a3ad13);
+  background-image: -moz-linear-gradient(top, #f8ff3b, #a3ad13);
+  background-image: -ms-linear-gradient(top, #f8ff3b, #a3ad13);
+  background-image: -o-linear-gradient(top, #f8ff3b, #a3ad13);
+  background-image: linear-gradient(to bottom, #f8ff3b, #a3ad13);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 20px;
+}
+
+.btn:hover {
+  background: #d100ca;
+  background-image: -webkit-linear-gradient(top, #d100ca, #850981);
+  background-image: -moz-linear-gradient(top, #d100ca, #850981);
+  background-image: -ms-linear-gradient(top, #d100ca, #850981);
+  background-image: -o-linear-gradient(top, #d100ca, #850981);
+  background-image: linear-gradient(to bottom, #d100ca, #850981);
+  text-decoration: none;
+}
