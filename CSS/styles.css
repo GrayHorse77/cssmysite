@@ -37,7 +37,8 @@ p {
   font-weight: normal;
 }
 hr {
-
+height: 20px;
+border-style: dotted none none none;
 }
 .top-container {
   background: linear-gradient(10deg, #2E0249 50%, #001D6E 200%, #2e0249, #001d6e 40%);
